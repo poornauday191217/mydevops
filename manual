@@ -11,7 +11,14 @@ read a
 echo " enter the num2"
 read b
 
+
 Sum=$(($a))
+=======
+diff=$(($a+$b))
+>>>>>>> 81a0decbd581a91aa421c53c5ea47c4a7709fd26
 
 echo " the sum of two numbers $Sum "
+
+and have a great day though out
+
 
