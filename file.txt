@@ -1,0 +1,11 @@
+#!/bin/bash
+#Author - R.Poorna
+#Check local to remote
+
+
+free -m
+echo " hello world "
+
+
+
+
