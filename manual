@@ -11,21 +11,11 @@ read a
 echo " enter the num2"
 read b
 
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-diff=$(($a-$b))
->>>>>>> parent of 81a0dec ( added +)
-=======
->>>>>>> Stashed changes
 
 Sum=$(($a))
 =======
 diff=$(($a+$b))
 >>>>>>> 81a0decbd581a91aa421c53c5ea47c4a7709fd26
-=======
-Sum=$(($a+$b))
->>>>>>> parent of a762f51 ( sum as variable)
 
 echo " the sum of two numbers $Sum "
 
