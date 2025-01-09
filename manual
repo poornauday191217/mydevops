@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#Author - R.Poorna
+
+#merge testing1
+
+
+echo " enter the num1"
+read a
+
+echo " enter the num2"
+read b
+
+diff=$(($a-$b))
+
+echo " the sum of two numbers $diff "
+
