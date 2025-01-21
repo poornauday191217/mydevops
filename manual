@@ -11,7 +11,7 @@ read a
 echo " enter the num2"
 read b
 
-diff=$(($a-$b))
+diff=$(($a+$b))
 
 echo " the sum of two numbers $diff "
 
