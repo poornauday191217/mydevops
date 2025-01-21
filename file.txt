@@ -3,9 +3,9 @@
 #Check local to remote
 
 
-free -m
+
 echo " hello world "
 
-
+echo " hello world1 "
 
 

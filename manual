@@ -15,6 +15,6 @@ diff=$(($a-$b))
 
 echo " the sum of two numbers $diff "
 
-and have a great day though out
+
 
 
