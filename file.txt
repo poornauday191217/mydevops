@@ -5,6 +5,7 @@
 
 free -m
 echo " hello world "
+echo " missing th connection "
 
 
 
