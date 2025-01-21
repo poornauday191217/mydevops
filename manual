@@ -11,10 +11,23 @@ read a
 echo " enter the num2"
 read b
 
+
+Sum=$(($a+$b))
+
+<<<<<<< Updated upstream
+<<<<<<< HEAD
 diff=$(($a+$b))
 
 echo " the sum of two numbers $diff "
 
 and have a great day though out
 
+Sum=$(($a+$b))
+
+
+Sum=$((-$a-$b))
+Stashed changes
+>>>>>>> Stashed changes
+
+echo " the sum of two numbers $Sum "
 
